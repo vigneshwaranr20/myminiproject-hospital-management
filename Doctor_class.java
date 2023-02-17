@@ -10,6 +10,7 @@ import java.util.Scanner;
 public class Doctor_class {
 
 	private static final String Connection = null;
+       System.out.println("sivanath");
 
 	public  void doctorDetails(Connection con, int pId) {
 		PatientDetails obj = new PatientDetails();
