@@ -16,6 +16,7 @@ public class PatientDetails
 		System.out.println("1.Book Appoinment");
 		System.out.println("2.Register");
 		System.out.println("3.Patient Details");
+		System.out.println("I changed the code Kindly check and approve");
 		int choise = sc.nextInt();
 		try 
 		{
